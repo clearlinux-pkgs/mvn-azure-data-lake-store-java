@@ -4,7 +4,7 @@
 #
 Name     : mvn-azure-data-lake-store-java
 Version  : 2.2.9
-Release  : 1
+Release  : 2
 URL      : https://github.com/Azure/azure-data-lake-store-java/archive/2.2.9.tar.gz
 Source0  : https://github.com/Azure/azure-data-lake-store-java/archive/2.2.9.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/microsoft/azure/azure-data-lake-store-sdk/2.2.9/azure-data-lake-store-sdk-2.2.9.jar
